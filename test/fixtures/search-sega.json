@@ -1,0 +1,41 @@
+{
+  "batchcomplete": true,
+  "continue": {
+    "sroffset": 3,
+    "continue": "-||"
+  },
+  "query": {
+    "searchinfo": {
+      "totalhits": 3794
+    },
+    "search": [
+      {
+        "ns": 0,
+        "title": "Sega",
+        "pageid": 577,
+        "size": 39834,
+        "wordcount": 10171,
+        "snippet": "and <span class=\"searchmatch\">Sega</span> Interactive were merged to form the second incarnation of <span class=\"searchmatch\">Sega</span> Corporation, while <span class=\"searchmatch\">Sega</span> Holdings became <span class=\"searchmatch\">Sega</span> Group Corporation. In 2024, <span class=\"searchmatch\">Sega</span> demerged",
+        "timestamp": "2026-09-21T15:27:04Z"
+      },
+      {
+        "ns": 0,
+        "title": "Sega Midwest Studio",
+        "pageid": 102627,
+        "size": 1692,
+        "wordcount": 150,
+        "snippet": "divisions of the company, along with <span class=\"searchmatch\">Sega</span> Interactive, <span class=\"searchmatch\">Sega</span> Technical Institute, <span class=\"searchmatch\">Sega</span> Multimedia Studio, and later <span class=\"searchmatch\">Sega</span> Away Team. It was shut down in 1995",
+        "timestamp": "2026-03-13T06:36:18Z"
+      },
+      {
+        "ns": 0,
+        "title": "Sega Rosso",
+        "pageid": 103243,
+        "size": 3535,
+        "wordcount": 413,
+        "snippet": "<span class=\"searchmatch\">Sega</span> Rosso was a major development studio owned by <span class=\"searchmatch\">Sega</span> between 2000 and 2003. At less than 40 staff, <span class=\"searchmatch\">Sega</span> Rosso was the smaller first-party studio serviced",
+        "timestamp": "2026-03-13T06:36:18Z"
+      }
+    ]
+  }
+}

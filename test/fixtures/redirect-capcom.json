@@ -1,0 +1,28 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Capcom",
+        "to": "Draft:Capcom"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 145521,
+        "ns": 3004,
+        "title": "Draft:Capcom",
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-29T02:37:58Z",
+        "lastrevid": 1639212,
+        "length": 1060,
+        "fullurl": "https://www.avid.wiki/Draft:Capcom",
+        "editurl": "https://www.avid.wiki/Draft:Capcom?action=edit",
+        "canonicalurl": "https://www.avid.wiki/Draft:Capcom"
+      }
+    ]
+  }
+}
