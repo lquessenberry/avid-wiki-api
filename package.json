@@ -1,0 +1,63 @@
+{
+  "name": "avid-wiki-api",
+  "version": "0.1.0",
+  "description": "Typed client for the Audiovisual Identity Database (avid.wiki), for video game collectors.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "bin": {
+    "avid-wiki-api": "./dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "keywords": [
+    "avid",
+    "avid.wiki",
+    "mediawiki",
+    "video-games",
+    "logos",
+    "collectors",
+    "sega"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lquessenberry/avid-wiki-api.git"
+  },
+  "homepage": "https://github.com/lquessenberry/avid-wiki-api#readme",
+  "bugs": {
+    "url": "https://github.com/lquessenberry/avid-wiki-api/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsup",
+    "prepare": "node scripts/ensure-build.js",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:live": "AVID_LIVE=1 vitest run test/live.test.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}

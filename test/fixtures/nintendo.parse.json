@@ -1,0 +1,319 @@
+{
+  "parse": {
+    "title": "Nintendo",
+    "pageid": 159067,
+    "revid": 1668389,
+    "redirects": [],
+    "categories": [
+      {
+        "sortkey": "",
+        "category": "Pages_using_Tabber_parser_tag",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "Pages_with_subpages",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "Pages_with_deprecated_availability_sections",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "Articles_using_small_message_boxes",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "Logos_with_audio_issues"
+      },
+      {
+        "sortkey": "",
+        "category": "Logos_with_content_warnings_for_a_jump_scare"
+      },
+      {
+        "sortkey": "",
+        "category": "Logos_with_content_warnings_for_flashing_images"
+      },
+      {
+        "sortkey": "",
+        "category": "Featured_articles"
+      },
+      {
+        "sortkey": "",
+        "category": "Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Production_logos_from_Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_logos_from_Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Commercial_tags_from_Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Media_commercial_tags_from_Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Warning_screens_from_Japan"
+      },
+      {
+        "sortkey": "",
+        "category": "Console_warning_screens_from_Japan",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_warning_screens_from_Japan",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Kyoto_Prefecture"
+      },
+      {
+        "sortkey": "",
+        "category": "Production_logos_from_Kyoto_Prefecture"
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_logos_from_Kyoto_Prefecture"
+      },
+      {
+        "sortkey": "",
+        "category": "Commercial_tags_from_Kyoto_Prefecture"
+      },
+      {
+        "sortkey": "",
+        "category": "Media_commercial_tags_from_Kyoto_Prefecture",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Warning_screens_from_Kyoto_Prefecture",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Console_warning_screens_from_Kyoto_Prefecture",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_warning_screens_from_Kyoto_Prefecture",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "International_production_logos"
+      },
+      {
+        "sortkey": "",
+        "category": "International_video_game_logos"
+      },
+      {
+        "sortkey": "",
+        "category": "International_commercial_tags"
+      },
+      {
+        "sortkey": "",
+        "category": "International_gaming_commercial_tags",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "International_warning_screens"
+      },
+      {
+        "sortkey": "",
+        "category": "International_console_warning_screens",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "International_video_game_warning_screens",
+        "missing": true
+      },
+      {
+        "sortkey": "",
+        "category": "Production_logos"
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_logos"
+      },
+      {
+        "sortkey": "",
+        "category": "Commercial_tags"
+      },
+      {
+        "sortkey": "",
+        "category": "Media_commercial_tags"
+      },
+      {
+        "sortkey": "",
+        "category": "Warning_screens"
+      },
+      {
+        "sortkey": "",
+        "category": "Console_warning_screens"
+      },
+      {
+        "sortkey": "",
+        "category": "Video_game_warning_screens"
+      },
+      {
+        "sortkey": "",
+        "category": "Japanese-language_logos"
+      },
+      {
+        "sortkey": "",
+        "category": "Nintendo"
+      },
+      {
+        "sortkey": "",
+        "category": "Logos_that_vary_depending_on_the_source"
+      },
+      {
+        "sortkey": "",
+        "category": "Logos_with_computer_and_console_music"
+      }
+    ],
+    "images": [
+      "Featured_icon.png",
+      "Info_symbol_-_credits.svg",
+      "AVID_Ko-Fi.svg",
+      "Comment_symbol_-_page.svg",
+      "Nintendo.svg",
+      "Nintendo_'84_-1.png",
+      "Nintendo_'84_-2.png",
+      "Nintendo_'84_-3.png",
+      "Nintendo_'84_-4.png",
+      "IPD-6KKZVFmg1xuPGKxdAA10882.jpeg",
+      "Q3S4yaL-iXru-rgu1aXFXg17274.png",
+      "Nintendo_Opening_(1990)_(A)_(Taken_from_King_of_the_Zoo,_GB).png",
+      "Nintendo_(1990-1992)_(Taken_from_Pilotwings,_SFC_&_SNES).png",
+      "Nintendo_(1992-1993)_(Taken_from_Super_Mario_Kart,_SFC_&_SNES).png",
+      "NintendoEarthBound.jpg",
+      "Nintendo_(1994)_(Taken_from_Wild_Trax,_SFC).png",
+      "Nintendo_(1996)_(Taken_from_Pinocchio,_SNES).png",
+      "Nintendo_(1997)_(Taken_from_Maui_Mallard_in_Cold_Shadow,_SNES).png",
+      "Nintendo_(1999)_(Taken_from_NBA_3_on_3_featuring_Kobe_Bryant,_GBC).png",
+      "Nintendo_(2002).png",
+      "F63a1ca36ffbf65e948ff40dd111deb2.png",
+      "46947de58afec4d075eff3c3af1049d4.png",
+      "Aefb77e32551a43baacd1e75592945b0.png",
+      "68ee612dc95934b9fea6b9da6caf801a.png",
+      "Nintendo_(Pikmin_Short_Movies).jpg",
+      "Nintendo_(1989)_(Taken_from_Mother,_NES).png",
+      "Acclaim_Entertainment,_Inc._+_Nintendo_(1989)_(Taken_from_Wizards_&_Warriors_2,_NES).png",
+      "Nintendo_(early_1990s)_(Taken_from_prototype_EBB,_NES).png",
+      "Rare_+_Nintendo_(1996)_(Taken_from_Donkey_Kong_Land_2,_SGB_International).png",
+      "Rare_+_Nintendo_(1996)_(Taken_from_Donkey_Kong_Land,_SGB_Japan).png",
+      "NintendoHalkenKirbySuperStar.jpg",
+      "Rare_+_Nintendo_(1997)_(Taken_from_Donkey_Kong_Land_III,_SGB).png",
+      "Nintendo_(1999).png",
+      "Nintendo_&_HAL_Laboratory_(2001).png",
+      "Rare_+_Nintendo_(2000)_(Taken_from_Donkey_Kong_GB_Dinky_Kong_and_Dixie_Kong,_GBC).png",
+      "HALNintendoKirbyandtheForgottenLand.jpg",
+      "HALNintendoKirbysReturnToDreamLandDeluxe.jpg",
+      "HALNintendoReturnToDreamLandCredits2023.jpg",
+      "Nintendo_(early_1990s)_(Taken_from_Solstice,_NES).png",
+      "Nintendo_of_America_Inc._(1992)_(Taken_from_NCAA_Basketball,_SNES).png",
+      "Nintendo_Presents...._(1995).png",
+      "Nintendo_(1995)_(Taken_from_Killer_Instinct,_SGB).png",
+      "Nintendo_(1999)_(Taken_from_R-Type_DX,_GBC).png",
+      "Nintendo_(1999)_(Taken_from_Conker's_Pocket_Tales,_GBC).png",
+      "Nintendo_(2000)_(Taken_from_Warlocked,_GBC).png",
+      "Nintendo_(2000)_(Taken_from_Donkey_Kong_Country_GBC_Edition).png",
+      "Nintendo_(2006)_(Taken_from_Tales_of_Phantasia,_GBA).png",
+      "Sega_+_Nintendo_(2008)_(Taken_from_Mario_and_Sonic_at_the_Olympic_Games,_NDS).png",
+      "Sega_+_Nintendo_(2009)_(Taken_from_Mario_and_Sonic_at_the_Olympic_Winter_Games,_NDS).png",
+      "Nintendo_(2010)_(Taken_from_Dragon_Quest_IX_-_Sentinels_of_the_Starry_Skies,_NDS).png",
+      "Nintendo_(2010)_(Taken_from_Shanghai_DS_2).png",
+      "Nintendo_(2010)_(Taken_from_Disney_Fairies_Tinker_Bell_and_the_Great_Fairy_Rescue,_NDS).png",
+      "Nintendo_+_MobiClip_Video_Codec_(2010)_(Taken_from_Style_Lab_Fashion_Design,_NDS).png",
+      "Nintendo_(2010)_(Taken_from_Disney's_Tangled,_NDS).png",
+      "Natsume_Inc._+_Nintendo_(2010)_(Taken_from_Rune_Factory_3,_DS).png",
+      "Nintendo_(2011)_(Taken_from_Harvest_Moon_-_The_Tale_of_Two_Towns,_DS).png",
+      "Disney_+_Nintendo_(2014)_(Taken_from_Disney_Violetta,_NDS).png",
+      "Nintendo_(1996)_(Taken_from_Winter_Gold,_SNES).png",
+      "Nintendo_(1990)_(Taken_from_Classic_Concentration,_NES).png",
+      "SM3DW_Copyright_29.webp",
+      "Nintendo_(1994).png",
+      "Nintendo_(1994)_B.png",
+      "Nintendo_(1994)_C.png",
+      "Nintendo_(1994,_Donkey_Kong_Country_variant).png",
+      "Nintendo_(1995)_(Taken_from_Killer_Instinct,_SNES).png",
+      "Nintendo_(1995).png",
+      "Dot.png",
+      "Nintendo-YSVariant.png",
+      "Nintendo_(Self-Explanatory).png",
+      "671db1dee33edcb67a65e7f256b4e7f8.png",
+      "Nintendo_(2004,_Diddy_Kong_Racing).png",
+      "Nintendo_(2004,_GBA_DC2).png",
+      "Nintendo_(2004,_Pikmin_2_variant_1,_international).jpeg",
+      "Nintendo_(2004,_Pikmin_2_variant_1,_JP).jpeg",
+      "Nintendo_(2009-2012,_Pikmin_2,_variant_1).jpeg",
+      "Nintendo_(2009-2012,_Pikmin_2,_variant_2).jpeg",
+      "Nintendo_(2023,_Pikmin_2_variant_2).jpeg",
+      "Nintendo_(2005,_WarioWare_Twisted).png",
+      "Nintendo_Opening_(1990)_(B)_(Taken_from_King_of_the_Zoo,_GB).png",
+      "Nintendo_Opening_(1990)_(C1)_(Taken_from_King_of_the_Zoo,_GB).png",
+      "Nintendo_Opening_(1990)_(C2)_(Taken_from_King_of_the_Zoo,_GB).png",
+      "Nintendo_1996.jpeg",
+      "Nintendo_(2002,_America).png",
+      "Nintendo_(2002,_PAL).png",
+      "Vlcsnap-2015-04-26-12h25m52s220.png",
+      "Nintendo_(1992).png",
+      "ZNJgt9YxYN0KtBXReyXRJA21962.png",
+      "Avid-flashing-vivi.png",
+      "Sound_icon.png",
+      "Avid-jumpscare-ace.png",
+      "Nintendo_(1989).jpg",
+      "Nintendo_(1989-5).jpg",
+      "Nintendo_(1988).jpg",
+      "Nintendo_(1986-2).jpg",
+      "Nintendo_(1987-2).jpg",
+      "Nintendo_(1987-3).jpg",
+      "Nintendo_(1990-2).jpg",
+      "Nintendo_(1986-3).jpg",
+      "Nintendo_(1989-4).jpg",
+      "Nintendo_(1991-2).jpg",
+      "Nintendo_(1988-2).jpg",
+      "Nintendo_(1986).png",
+      "Nintendo_(1987).png",
+      "Nintendo_Seal_of_Quality_1990.png",
+      "Nintendo_(1992)_(From_-_Super_Mario_Kart_commercial).png",
+      "Nintendo_(2021).png",
+      "Nintendo_(2022).png",
+      "GCWarning.png",
+      "MP6_HealthSafety_USA.png",
+      "MP6_HealthSafety_EUR.png",
+      "Nintendo_Warning_Screen_(French).png",
+      "Nintendo_Warning_Screen_(German).png",
+      "Nintendo_Warning_Screen_(Italian).png",
+      "Nintendo_Warning_Screen_(Spanish).png",
+      "GYQJ01_2026-01-17_18-42-21.png",
+      "Wii_Warning_Screen_(White).png",
+      "Wii_Warning_Screen.png",
+      "Wii_Warning_Screen_(Japanese).png",
+      "Bandicam_2026-02-04_06-46-02-154.jpg",
+      "Avid-warning.png",
+      "AVID_WARNING.png",
+      "Flag_of_Japan.svg"
+    ],
+    "tocdata": null,
+    "showtoc": false,
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nintendo</span></span>",
+    "wikitext": "{{Guidance|reason=flashing images, jumpscare}}{{About||their film logos|Nintendo Studios|other uses|Nintendo (disambiguation)}}\n{{FeaturedArticle}}\n{{PageCredits|description=DisneyInternationalFan|capture=Mariocenter, Kyrongenius1, Limmey, Muzzarino and Mandog20000|edits=TheLogoChamp, mariolover, Muzzarino, Mr.Logo, McDonald's1, GETENT, AlmightyKingPrawn, SBF2004, Lighteningdoc, MrRetroGreg and Michael Kenchington}}\n\n{{Infobox company\n|name=Nintendo Co., Ltd.\n|image=Nintendo.svg\n|founded=September 23, 1889 ({{age|1889|9|23}} years ago)\n|founder=Fusajiro Yamauchi|country=Japan|key people=Shuntaro Furukawa (president)<br>Shigeru Miyamoto (fellow)\n}}\n\n'''Nintendo''' is a consumer electronics company centered around the development of video games, and hardware to run them. The company was founded in 1889 by entrepreneur Fusajiro Yamauchi, originally as a seller of hanafuda playing card games, at the time banned by the Japanese government due to its ties to gambling; Yamauchi's hanafuda playing cards were one of few that were permitted for sale to the Japanese public. Around the 1960s, Nintendo started to experiment with numerous ventures, including a taxi service (their most successful venture at the time), love hotels, a TV network, and the sale of instant rice. After securing the rights to distribute the Magnavox Odyssey game console in Japan in 1974, Nintendo started to solely focus on the development of video games and gaming hardware for both arcades and home use. Today, Nintendo is best known for its participation in the video game console market, with consoles such as the DS, Game Boy, Wii, NES, and most recently, Switch. They are also the owners of numerous iconic gaming franchises, including ''Super Mario'', ''Donkey Kong'', ''Pokémon'', ''Metroid'', ''The Legend of Zelda'', ''Star Fox'', ''Kid Icarus'', ''Kirby'', and ''Pikmin'', among others.\n\n{{Clear}}\n\n<tabber>\nProduction Logos=\n{{/Production Logos}}\n|-|Commercial Tags=\n{{/Commercial Tags}}\n|-|Warning Screen=\n{{/Warning Screen}}\n</tabber>\n\n{{Video game logos from Japan}}\n{{Video Game-Navbox}}\n{{Commercial tags from Japan}}\n{{Navbox-CommercialTags}}\n{{Warning screens}}\n\n[[Category:Japan]]\n[[Category:Production logos from Japan]]\n[[Category:Video game logos from Japan]]\n[[Category:Commercial tags from Japan]]\n[[Category:Media commercial tags from Japan]]\n[[Category:Warning screens from Japan]]\n[[Category:Console warning screens from Japan]]\n[[Category:Video game warning screens from Japan]]\n[[Category:Kyoto Prefecture]]\n[[Category:Production logos from Kyoto Prefecture]]\n[[Category:Video game logos from Kyoto Prefecture]]\n[[Category:Commercial tags from Kyoto Prefecture]]\n[[Category:Media commercial tags from Kyoto Prefecture]]\n[[Category:Warning screens from Kyoto Prefecture]]\n[[Category:Console warning screens from Kyoto Prefecture]]\n[[Category:Video game warning screens from Kyoto Prefecture]]\n[[Category:International production logos]]\n[[Category:International video game logos]]\n[[Category:International commercial tags]]\n[[Category:International gaming commercial tags]]\n[[Category:International warning screens]]\n[[Category:International console warning screens]]\n[[Category:International video game warning screens]]\n[[Category:Production logos]]\n[[Category:Video game logos]]\n[[Category:Commercial tags]]\n[[Category:Media commercial tags]]\n[[Category:Warning screens]]\n[[Category:Console warning screens]]\n[[Category:Video game warning screens]]\n[[Category:Japanese-language logos]]\n[[Category:Nintendo]]\n[[Category:Logos that vary depending on the source]]\n[[Category:Logos with computer and console music]]"
+  }
+}
