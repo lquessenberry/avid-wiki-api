@@ -2,13 +2,32 @@
 
 Typed client for the [Audiovisual Identity Database](https://www.avid.wiki/) (AVID), aimed at video game collectors. It wraps the MediaWiki Action API and turns a company article into logo eras: ordinal, variant name, game title, date range, subsection text, and the screenshots attached to each era.
 
-The npm package name is **`avid-wiki-api`**. It was not on the registry when this package was prepared (29 September 2026). This repository does not publish it.
+The npm package name is **`avid-wiki-api`**. It was not on the registry when this package was prepared (29 September 2026). Install it from GitHub until it is published:
 
 ```bash
-npm install avid-wiki-api
+npm install github:lquessenberry/avid-wiki-api#cursor/avid-wiki-api-35df
 ```
 
-Node.js 18 or newer. The library uses global `fetch` and ships ESM, CommonJS, and TypeScript declarations. It also runs in browsers: requests send MediaWiki's `origin=*` parameter so the wiki's CORS check passes. Browsers block the `User-Agent` header, so the client sends `Api-User-Agent` there instead.
+The repository is private, so Git must already be able to read it. In `package.json`:
+
+```json
+{
+  "dependencies": {
+    "avid-wiki-api": "github:lquessenberry/avid-wiki-api#cursor/avid-wiki-api-35df"
+  }
+}
+```
+
+After the branch is merged, drop the `#cursor/avid-wiki-api-35df` suffix. A packed tarball works offline:
+
+```bash
+npm pack
+npm install ./avid-wiki-api-0.1.0.tgz
+```
+
+Once it is on the registry, `npm install avid-wiki-api` is enough.
+
+Node.js 18 or newer. The install includes ESM, CommonJS, and TypeScript declarations, so a project can import it without a separate compile. The library uses global `fetch`. It also runs in browsers: requests send MediaWiki's `origin=*` parameter so the wiki's CORS check passes. Browsers block the `User-Agent` header, so the client sends `Api-User-Agent` there instead.
 
 ## Attribution
 
@@ -189,6 +208,8 @@ npm run build
 npm pack --dry-run
 AVID_LIVE=1 npm run test:live
 ```
+
+`dist/` is committed so another project can install this package before it is published. `npm run build` refreshes it; commit that output with source changes.
 
 Unit tests replay saved Action API responses for Sega, Namco, Nintendo, Nintendo/Production Logos, and Konami/Production Logos, plus search, category, redirect, and imageinfo payloads. `test:live` is opt-in and hits the wiki once for Sega.
 

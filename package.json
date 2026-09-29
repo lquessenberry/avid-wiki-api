@@ -48,7 +48,7 @@
   },
   "scripts": {
     "build": "tsup",
-    "prepare": "npm run build",
+    "prepare": "node scripts/ensure-build.js",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:live": "AVID_LIVE=1 vitest run test/live.test.ts",
